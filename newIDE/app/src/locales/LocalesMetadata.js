@@ -137,7 +137,7 @@ module.exports = [
     "languageCode": "id_ID",
     "languageName": "Indonesian",
     "languageNativeName": "Bahasa Indonesia",
-    "translationRatio": 0.9738262552194724
+    "translationRatio": 0.9775944597209492
   },
   {
     "languageCode": "ig_NG",
@@ -341,7 +341,7 @@ module.exports = [
     "languageCode": "vi_VN",
     "languageName": "Vietnamese",
     "languageNativeName": "Tiếng Việt",
-    "translationRatio": 0.9833995315205214
+    "translationRatio": 0.9852327120888074
   },
   {
     "languageCode": "yo_NG",
